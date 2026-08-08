@@ -11,16 +11,18 @@ To master the syntax and fundamental concepts of the language, ranging from basi
 
 Here are the topics covered in the tour and my current completion status:
 
-- [x] **1. Basics**
+- [x] **1. Using the Tour**
+  - [x] Welcome
+- [x] **2. Basics**
   - [x] Packages, variables, and functions.
   - [x] Flow control statements (for, if, else, switch, defer).
   - [x] More types (Structs, slices, maps, and pointers).
-- [ ] **2. Methods and Interfaces**
+- [ ] **3. Methods and Interfaces**
   - [ ] Methods and interfaces.
-  - [ ] Stringers, Errors, Readers, and Images.
-- [ ] **3. Concurrency**
-  - [ ] Goroutines and Channels.
-  - [ ] Sync.Mutex.
+- [ ] **4. Generics**
+  - [ ] Generics
+- [ ] **5. Concurrency**
+  - [ ] Concurrency
 
 ---
 
