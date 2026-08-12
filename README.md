@@ -17,8 +17,8 @@ Here are the topics covered in the tour and my current completion status:
   - [x] Packages, variables, and functions.
   - [x] Flow control statements (for, if, else, switch, defer).
   - [x] More types (Structs, slices, maps, and pointers).
-- [ ] **3. Methods and Interfaces**
-  - [ ] Methods and interfaces.
+- [x] **3. Methods and Interfaces**
+  - [x] Methods and interfaces.
 - [ ] **4. Generics**
   - [ ] Generics
 - [ ] **5. Concurrency**
