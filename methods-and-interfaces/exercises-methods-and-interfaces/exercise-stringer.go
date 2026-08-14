@@ -4,7 +4,7 @@ import "fmt"
 
 type IPAddr [4]byte
 
-// String implements the fmt.Stringer interface for IPAddr.
+// String implements the fmt.Stringer interface for IPAddr
 func (ip IPAddr) String() string {
 	return fmt.Sprintf("%d.%d.%d.%d", ip[0], ip[1], ip[2], ip[3])
 }

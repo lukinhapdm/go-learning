@@ -18,11 +18,11 @@ Here are the topics covered in the tour and my current completion status:
   - [x] Flow control statements (for, if, else, switch, defer).
   - [x] More types (Structs, slices, maps, and pointers).
 - [x] **3. Methods and Interfaces**
-  - [x] Methods and interfaces.
-- [ ] **4. Generics**
-  - [ ] Generics
-- [ ] **5. Concurrency**
-  - [ ] Concurrency
+  - [x] Methods on types and interfaces.
+- [x] **4. Generics**
+  - [x] Generic programming using type parameters.
+- [x] **5. Concurrency**
+  - [x] Goroutines and channels used on concurrency patterns.
 
 ---
 
